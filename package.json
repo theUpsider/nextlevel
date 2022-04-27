@@ -1,0 +1,21 @@
+{
+    "name": "nextlevel",
+    "displayName": "Nextlevel",
+    "description": "Brings python development to the next level by highlighting relevant code, therefore helps focusing on the relevant parts of the code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nextlevel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nextlevel-color-theme.json"
+            }
+        ]
+    }
+}
