@@ -1,6 +1,6 @@
 # README
 
-## Nextlevel"
+## Nextlevel
 
 This theme is meant to provide clear syntax highlighting for easy code understanding.
 Most of the colors are therefore very distinct and simple.
