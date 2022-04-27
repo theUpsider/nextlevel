@@ -2,7 +2,8 @@
   "name": "nextlevel",
   "displayName": "Nextlevel",
   "description": "Brings python development to the next level by highlighting relevant code, therefore helps focusing on the relevant parts of the code",
-  "version": "1.0.1",
+  "version": "1.1.1",
+  "icon": "images/logo_1.png",
   "publisher": "DavidvFischer",
   "repository": {
     "type": "git",
