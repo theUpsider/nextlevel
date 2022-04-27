@@ -2,6 +2,7 @@
 	"name": "Nextlevel",
 	"$schema": "vscode://schemas/color-theme",
 	"type": "dark",
+	"author": "David Fischer",
 	"colors": {
 		"activityBar.background": "#182C34",
 		"activityBar.border": "#182C3460",
